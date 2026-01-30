@@ -1,4 +1,4 @@
-body { font-family: Arial, sans-serif; margin: 1.5rem auto; max-width: 720px; line-height: 1.6; }
+body { font-family: Arial, sans-serif; margin: 1.5rem auto; max-width: 720px; line-height: 1.6; background-color: blue;}
 header { display: flex; flex-direction: column; gap: 0.4rem; margin-bottom: 1rem; }
 nav a { margin-right: 0.75rem; text-decoration: none; color: #0a5c9b; }
 nav a:hover { text-decoration: underline; }
